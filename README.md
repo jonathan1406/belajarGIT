@@ -7,6 +7,7 @@ Daftar tugas / branch
 5. Tugas-midProject
 6. Tugas-php
 7. Tugas-finalProject
+
 Daftar perintah GiT
 git init: Membuat repositori baru
 git add: Menambahkan file ke index
